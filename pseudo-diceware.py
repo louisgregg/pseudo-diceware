@@ -53,4 +53,4 @@ if __name__ == '__main__':
 	path_to_book = str(sys.argv[1])
 	n_random_words = int(sys.argv[2])
 	word_list = main(path_to_book, n_random_words)
-	print(word_list)
+	print(' '.join(word_list))
