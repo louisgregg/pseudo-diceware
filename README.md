@@ -19,3 +19,12 @@ https://www.eff.org/files/2016/07/18/eff_large_wordlist.txt
 Moby Dick and the Bible taken from the Project Gutenberg website.  
 https://www.gutenberg.org/files/2701/old/moby10b.txt  
 https://www.gutenberg.org/ebooks/10.txt.utf-8  
+
+## Usage Example
+```
+python pseudo-diceware.py bible.txt 10 
+```
+
+Example Output:
+There are 12893 unique words in the file.
+reproach bleating wait sheva araunah tyre zerah closets ransom jeshebeab
